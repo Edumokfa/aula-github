@@ -19,7 +19,7 @@ public class Curso_java {
         System.out.println("Digite um numero");
         int x = sc.nextInt();
         double teste;
-
+        //alteração de teste
         System.out.println(mat[0][0]);
     }
 
