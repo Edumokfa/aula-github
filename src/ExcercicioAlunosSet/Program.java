@@ -1,4 +1,4 @@
-package ExcercicioAlunos;
+package ExcercicioAlunosSet;
 
 import java.util.HashSet;
 import java.util.Scanner;

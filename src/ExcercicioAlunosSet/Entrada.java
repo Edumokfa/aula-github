@@ -1,4 +1,4 @@
-package ExcercicioAlunos;
+package ExcercicioAlunosSet;
 
 public class Entrada {
 
